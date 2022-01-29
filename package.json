@@ -1,6 +1,6 @@
 {
   "name": "elastic-input-react-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "description": "Validate your inputs with flutter style",
   "author": "Akifcan Kara",
@@ -26,6 +26,7 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "elastic-input-react-js": "^1.0.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",

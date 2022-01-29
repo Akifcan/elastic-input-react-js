@@ -4,6 +4,8 @@
 
 ![preview](https://i.hizliresim.com/eqhcnd7.gif)
 
+`import ElasticInput from 'elastic-input-react-js/dist/ElasticInput';`
+
 ```
       <ElasticInput
         required
