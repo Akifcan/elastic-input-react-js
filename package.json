@@ -4,6 +4,12 @@
   "private": false,
   "description": "Validate your inputs with flutter style",
   "author": "Akifcan Kara",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
     "url": "https://github.com/Akifcan/elastic-input-react-js"
   },
